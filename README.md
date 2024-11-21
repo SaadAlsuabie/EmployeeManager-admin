@@ -68,7 +68,7 @@ The app is developed in **Java** using **Android Studio**, following best practi
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Plymouth-COMP2000/coursework-report-SaadAlsuabie.git
+   git clone https://github.com/SaadAlsuabie/EmployeeManager-admin.git
    ```
 2. Open the project in Android Studio.
 3. Configure the `BASE_URL` in `EmployeeDataService.java`:
@@ -133,7 +133,7 @@ The app interacts with the following API endpoints:
 ---
 
 ## **GitHub Repository**
-- **Repository URL**: [GitHub Repository](https://github.com/Plymouth-COMP2000/coursework-report-SaadAlsuabie.git)
+- **Repository URL**: [GitHub Repository](https://github.com/SaadAlsuabie/EmployeeManager-admin)
 - **Commit Guidelines**:
   - Each commit is appropriately commented and pushed weekly.
   - All third-party assets and resources are credited in the README file.
