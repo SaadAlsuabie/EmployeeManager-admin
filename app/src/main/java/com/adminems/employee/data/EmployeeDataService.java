@@ -20,7 +20,6 @@ import java.util.List;
 
 public class EmployeeDataService {
     Context context;
-//    final String BASE_URL = "https://apitest.nuwavenow.org";
     final String BASE_URL = "http://10.224.41.11/comp2000";
 
     public EmployeeDataService(Context context) {
