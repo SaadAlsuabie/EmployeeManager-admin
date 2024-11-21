@@ -1,0 +1,51 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <!-- ID -->
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="1"
+        android:textColor="@color/black"
+        android:textSize="11sp"
+        android:gravity="center" />
+
+    <!-- Full Names -->
+    <TextView
+        android:id="@+id/tvFullNames"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="John Doe"
+        android:textColor="@color/black"
+        android:textSize="11sp"
+        android:gravity="center" />
+
+    <!-- Email -->
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:text="john.doe@example.com"
+        android:textColor="@color/black"
+        android:textSize="11sp" />
+
+    <!-- Department -->
+    <TextView
+        android:id="@+id/tvDepartment"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="Finance"
+        android:textColor="@color/black"
+        android:textSize="11sp"
+        android:gravity="center" />
+</LinearLayout>
